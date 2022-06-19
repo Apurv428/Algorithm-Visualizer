@@ -1,3 +1,47 @@
+<h1 align="center">
+  <a href="https://github.com/Apurv428/Algorithm-Visualizer">
+    <img src="https://lh3.googleusercontent.com/Jk3Dlr3jsMG1lWDiIrCDzmneNl6DYdc6kIijZUH3ctHHLICjOqtF9PjLJjRNfEUgqROOc6AomZX2UInjVEIw_T1PJzBVIgcx983ukF0epNoeomE-mXk7FSLxOmdURowH6P_mTfNZow=w2400" alt="Visualizer" width="400" height="200">
+  </a>
+  <br>
+  Algorithm Visualizer 
+</h1>
+
+
+<div align="center">
+   <strong>Algorithm Visualizer</strong> - A step towards understanding algos in a better way! <br>
+</div>
+<hr>
+
+# Rozgaarr
+
+<table>
+  <tr>
+    <td>
+      Students often face problem regarding understanding algorithms, especially during exam time or while preparing for exams like <strong>GATE</strong> or <strong>university exams</strong> which is very time consuming. We all know algorithms plays an important role, but students find it difficult, so we came up with an platform where students can visualize it, and can understand how it works and whole logic behind that algorithm.
+  </td>
+ </tr>
+</table>
+
+
+## Resources 🔨
+
+- [Algorithm Visualizer](https://algorithm-visualizer-lyart.vercel.app/)
+
+## Features :man_technologist:
+
+## Tech Stack :rocket:
+
+- HTML
+- CSS
+- JS
+- React JS
+
+## Team Members:
+- [Pratiksha Sankhe](https://github.com/psankhe28)
+- [Apurv Sonawane](https://github.com/Apurv428)
+
+## How to run
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,7 +75,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Note: this is a one-way operation. Once you `eject`, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
